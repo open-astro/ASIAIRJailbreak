@@ -1,5 +1,18 @@
-## ASIAIR Jailbreak
-All code was written by joshumax this simply stored on GitHub as this is being released under public domain. All files and text were taken from https://www.cloudynights.com/topic/900861-seestar-s50asiair-jailbreak-ssh/
+# ⚠️ This repository has moved
+
+**This project has been superseded by [open-astro/aw-flashtool](https://github.com/open-astro/aw-flashtool).**
+
+Please head over to the new repository for the latest code, releases, and issue tracking:
+
+### 👉 https://github.com/open-astro/aw-flashtool
+
+This repository is kept online in archived, read-only form for historical reference only. **No further updates, fixes, or support will be provided here.**
+
+---
+
+## ASIAIR Jailbreak (archived)
+
+Original tool for gaining root SSH access to Seestar S50 / ASIAIR devices. All code was originally written by joshumax and stored here under public domain (CC0-1.0). Source material from the [Cloudy Nights thread](https://www.cloudynights.com/topic/900861-seestar-s50asiair-jailbreak-ssh/).
 
 ### FIRST OF ALL, THIS IS ALL ESSENTIALLY ONE GIANT HACK. IT HAS WORKED FOR ME BUT IT COULD BRICK YOUR DEVICE, OR WORSE. THIS IS FOR DEVELOPERS ONLY. IF YOU AREN'T FAMILIAR WITH SSH OR LINUX, DON'T USE THIS!
 
